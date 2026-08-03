@@ -215,8 +215,7 @@ function Footer() {
           rights reserved globally.
         </p>
 
-        {/* Right Side: Codester Link */}
-        <p className="text-xm text-gray-400">
+        {/* <p className="text-xm text-gray-400">
           Available on{" "}
           <a
             href="https://www.codester.com/items/66735/mern-stack-hotel-booking-and-reservation-system?ref=wad10"
@@ -226,7 +225,7 @@ function Footer() {
           >
             Codester
           </a>
-        </p>
+        </p> */}
       </div>
     </footer>
   );
