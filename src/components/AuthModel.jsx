@@ -280,6 +280,13 @@ function AuthModal({ isOpen, onClose }) {
             {isSignup ? "Log In" : "Register Now"}
           </span>
         </p>
+        <p
+          className="font-bold"
+          style={{ fontSize: "12px", color: "gray", marginTop: "10px" }}
+        >
+          Demo Credentials: <br /> User: user@gmail.com Password: user <br />
+          Admin: admin@gmail.com Password: admin
+        </p>
       </div>
     </div>
   );
